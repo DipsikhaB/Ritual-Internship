@@ -1,0 +1,21 @@
+.featured-area-two {
+  /* background-color: red; */
+  max-width: 1200px;
+  height: 30rem;
+  z-index: 2;
+  /* position: relative; */
+}
+
+.te {
+  text-align: left;
+  margin-top: 2rem;
+  margin-left: -9rem;
+  margin-right: 4rem;
+  display: block;
+}
+.featured-area-image {
+  margin-right: -8rem;
+  height: 62rem;
+  width: 62rem;
+}
+
