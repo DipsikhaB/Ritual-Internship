@@ -19,7 +19,7 @@ function Map() {
           </span>
         </div>
         <div className="featured-area-image  w-full h-full">
-          <img src={HomeMap} className="" alt="" />
+          <img src={HomeMap}/>
         </div>
       </div>
     );

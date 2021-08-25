@@ -8,7 +8,7 @@ function Product() {
         <div className="background-blob slide-right top-100"></div>
         <div className="featured-area-one flex mx-40 my-24">
           <div className="img">
-            <img src={Image} alt role="slider" />
+            <img src={Image}/>
           </div>
           <div className="t justify-around text-ritual-blue">
             <h1 className="text-4xl">
